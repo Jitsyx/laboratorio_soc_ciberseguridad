@@ -1,0 +1,16 @@
+.
+├── Alertas
+├── ~autosave_soc.sh
+├── Casos_SOC
+├── Diagramas
+├── Documentacion
+├── Herraminetas
+├── Inventario
+│   └── estructura.txt
+├── Investigaciones
+├── Logs
+├── Network
+├── README.md
+└── Scripts
+
+11 directories, 3 files
