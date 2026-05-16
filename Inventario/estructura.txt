@@ -2,6 +2,7 @@
 ├── Alertas
 ├── ~autosave_soc.sh
 ├── Casos_SOC
+│   └── caso1.txt
 ├── Diagramas
 ├── Documentacion
 ├── Herraminetas
@@ -13,4 +14,4 @@
 ├── README.md
 └── Scripts
 
-11 directories, 3 files
+11 directories, 4 files
