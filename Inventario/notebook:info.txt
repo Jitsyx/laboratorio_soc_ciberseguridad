@@ -1,0 +1,46 @@
+        _,met$$$$$gg.
+     ,g$$$$$$$$$$$$$$$P.
+   ,g$$P""       """Y$$.".
+  ,$$P'              `$$$.
+',$$P       ,ggs.     `$$b:
+`d$$'     ,"'   .    $$$
+ $$P      d     ,    $$P
+ $$:      $   -    ,d$$'
+ $$;      Y._   _,d'
+ Y$$.    `.`"Y$$$$P"'
+ `$$b      "-.__
+  `Y$$b
+   `Y$$.
+     `$$b.
+       `Y$$b.
+         `"Y$b._
+             `""""[1G[16A[31Cjustscanners@Debian-13
+[31C----------------------
+[31COS: Debian GNU/Linux 13 (trixie) x86_64
+[31CHost: 300E4A/300E5A/300E7A (0.1)
+[31CKernel: Linux 6.12.85+deb13-amd64
+[31CUptime: 5 days, 6 hours, 25 mins
+[31CPackages: 1711 (dpkg)
+[31CShell: bash 5.2.37
+[31CDisplay (SEC3649): 1366x768 @ 60 Hz in 14" [Built-in]
+[31CDE: Xfce4 4.20
+[31CWM: Xfwm4 (X11)
+[31CWM Theme: Default
+[31CTheme: Xfce [GTK2/3/4]
+[31CIcons: Tango [GTK2/3/4]
+[31CFont: Sans (10pt) [GTK2/3/4]
+[31CCursor: Adwaita
+[31CTerminal: xfce4-terminal 1.1.4
+[31CCPU: Intel(R) Core(TM) i5-2450M (4) @ 3.10 GHz
+[31CGPU: Intel 2nd Generation Core Processor Family Integrated Graphics Controller @ 1.30 GHz [Integrated]
+[31CMemory: 3.59 GiB / 7.68 GiB (47%)
+[31CSwap: 0 B / 7.92 GiB (0%)
+[31CDisk (/): 5.77 GiB / 17.33 GiB (33%) - ext4
+[31CDisk (/home): 29.90 GiB / 183.83 GiB (16%) - ext4
+[31CDisk (/tmp): 868.00 KiB / 2.60 GiB (0%) - ext4
+[31CDisk (/var): 545.53 MiB / 6.17 GiB (9%) - ext4
+[31CLocal IP (enp2s0): 192.168.10.164/24
+[31CLocale: es_AR.UTF-8
+[31C
+[31C[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[31C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m

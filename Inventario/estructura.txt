@@ -6,12 +6,17 @@
 ├── Diagramas
 ├── Documentacion
 ├── Herraminetas
+├── Infraestructura
+│   ├── notebook-debian.md
+│   ├── pc-escritorio.md
+│   └── topologia-red.md
 ├── Inventario
-│   └── estructura.txt
+│   ├── estructura.txt
+│   └── notebook:info.txt
 ├── Investigaciones
 ├── Logs
 ├── Network
 ├── README.md
 └── Scripts
 
-11 directories, 4 files
+12 directories, 8 files
